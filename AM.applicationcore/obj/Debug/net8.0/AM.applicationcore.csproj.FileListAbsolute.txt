@@ -1,0 +1,12 @@
+C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\bin\Debug\net8.0\AM.applicationcore.deps.json
+C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\bin\Debug\net8.0\AM.applicationcore.dll
+C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\bin\Debug\net8.0\AM.applicationcore.pdb
+C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\obj\Debug\net8.0\AM.applicationcore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\obj\Debug\net8.0\AM.applicationcore.AssemblyInfoInputs.cache
+C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\obj\Debug\net8.0\AM.applicationcore.AssemblyInfo.cs
+C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\obj\Debug\net8.0\AM.applicationcore.csproj.CoreCompileInputs.cache
+C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\obj\Debug\net8.0\AM.applicationcore.sourcelink.json
+C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\obj\Debug\net8.0\AM.applicationcore.dll
+C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\obj\Debug\net8.0\refint\AM.applicationcore.dll
+C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\obj\Debug\net8.0\AM.applicationcore.pdb
+C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\obj\Debug\net8.0\ref\AM.applicationcore.dll
