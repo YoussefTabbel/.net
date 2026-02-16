@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,10 +10,13 @@ namespace AM.applicationcore.Domain
     public class Passenger
     {
         public int Id { get; set; }
+        [MinLength = 3, ErrorMessage = "First name must be at least 3 characters long.")]
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public DateTime BirthDate { get; set; }
         public string EmailAddress { get; set; }
+        [Key]
+        [StringLength(7, ErrorMessage = "Passport number must be exactly 8 characters.")]
         public string PassportNumber { get; set; }
         public int TelNumber { get; set; }
         public ICollection<Flight> Flights { get; set; }

@@ -3,40 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1BFDAB1-7FE7-4E99-965C-1D5849C08073}|AM.console\\AM.console.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1BFDAB1-7FE7-4E99-965C-1D5849C08073}|AM.console\\AM.console.csproj|solutionrelative:am.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|solutionrelative:am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|solutionrelative:am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.infra\\Migrations\\20260216101420_Airlinelogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AM.infra\\Migrations\\20260216101420_Airlinelogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.infra\\Migrations\\20260216093402_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AM.infra\\Migrations\\20260216093402_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C6517B-7228-4DE5-8448-C78D8D54C4D9}|AM.infra\\AM.infra.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.infra\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C6517B-7228-4DE5-8448-C78D8D54C4D9}|AM.infra\\AM.infra.csproj|solutionrelative:am.infra\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22C6517B-7228-4DE5-8448-C78D8D54C4D9}|AM.infra\\AM.infra.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.infra\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22C6517B-7228-4DE5-8448-C78D8D54C4D9}|AM.infra\\AM.infra.csproj|solutionrelative:am.infra\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|solutionrelative:am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.applicationcore\\domain\\planetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|solutionrelative:am.applicationcore\\domain\\planetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.applicationcore\\services\\flightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|solutionrelative:am.applicationcore\\services\\flightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.applicationcore\\domain\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|solutionrelative:am.applicationcore\\domain\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1BFDAB1-7FE7-4E99-965C-1D5849C08073}|AM.console\\AM.console.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1BFDAB1-7FE7-4E99-965C-1D5849C08073}|AM.console\\AM.console.csproj|solutionrelative:am.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.applicationcore\\interfaces\\iflightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|solutionrelative:am.applicationcore\\interfaces\\iflightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.applicationcore\\services\\passengerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|solutionrelative:am.applicationcore\\services\\passengerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.applicationcore\\domain\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|solutionrelative:am.applicationcore\\domain\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.applicationcore\\domain\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|solutionrelative:am.applicationcore\\domain\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1BFDAB1-7FE7-4E99-965C-1D5849C08073}|AM.console\\AM.console.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.console\\am.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D1BFDAB1-7FE7-4E99-965C-1D5849C08073}|AM.console\\AM.console.csproj|solutionrelative:am.console\\am.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|solutionrelative:am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.applicationcore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|solutionrelative:am.applicationcore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.applicationcore\\domain\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|solutionrelative:am.applicationcore\\domain\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.applicationcore\\domain\\planetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D29EFD9E-F219-455F-93D3-7CD2F1E41901}|AM.applicationcore\\AM.applicationcore.csproj|solutionrelative:am.applicationcore\\domain\\planetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1BFDAB1-7FE7-4E99-965C-1D5849C08073}|AM.console\\AM.console.csproj|c:\\users\\tabbe\\source\\repos\\airportmanagmentsim1\\am.console\\am.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1BFDAB1-7FE7-4E99-965C-1D5849C08073}|AM.console\\AM.console.csproj|solutionrelative:am.console\\am.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,37 +74,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PlaneType.cs",
-              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\PlaneType.cs",
-              "RelativeDocumentMoniker": "AM.applicationcore\\Domain\\PlaneType.cs",
-              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\PlaneType.cs",
-              "RelativeToolTip": "AM.applicationcore\\Domain\\PlaneType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "20260216101420_Airlinelogo.cs",
+              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.infra\\Migrations\\20260216101420_Airlinelogo.cs",
+              "RelativeDocumentMoniker": "AM.infra\\Migrations\\20260216101420_Airlinelogo.cs",
+              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.infra\\Migrations\\20260216101420_Airlinelogo.cs",
+              "RelativeToolTip": "AM.infra\\Migrations\\20260216101420_Airlinelogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T09:26:28.462Z",
+              "WhenOpened": "2026-02-16T10:14:20.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Staff.cs",
-              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\Staff.cs",
-              "RelativeDocumentMoniker": "AM.applicationcore\\Domain\\Staff.cs",
-              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\Staff.cs",
-              "RelativeToolTip": "AM.applicationcore\\Domain\\Staff.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "20260216093402_firstmig.cs",
+              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.infra\\Migrations\\20260216093402_firstmig.cs",
+              "RelativeDocumentMoniker": "AM.infra\\Migrations\\20260216093402_firstmig.cs",
+              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.infra\\Migrations\\20260216093402_firstmig.cs",
+              "RelativeToolTip": "AM.infra\\Migrations\\20260216093402_firstmig.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T09:19:43.689Z",
+              "WhenOpened": "2026-02-16T09:34:02.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\Passenger.cs",
+              "RelativeDocumentMoniker": "AM.applicationcore\\Domain\\Passenger.cs",
+              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\Passenger.cs",
+              "RelativeToolTip": "AM.applicationcore\\Domain\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T09:15:36.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AMContext.cs",
+              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.infra\\AMContext.cs",
+              "RelativeDocumentMoniker": "AM.infra\\AMContext.cs",
+              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.infra\\AMContext.cs",
+              "RelativeToolTip": "AM.infra\\AMContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T08:48:44.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.infra\\Class1.cs",
+              "RelativeDocumentMoniker": "AM.infra\\Class1.cs",
+              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.infra\\Class1.cs",
+              "RelativeToolTip": "AM.infra\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T08:45:16.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\Flight.cs",
+              "RelativeDocumentMoniker": "AM.applicationcore\\Domain\\Flight.cs",
+              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\Flight.cs",
+              "RelativeToolTip": "AM.applicationcore\\Domain\\Flight.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T09:11:57.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PassengerExtension.cs",
+              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Services\\PassengerExtension.cs",
+              "RelativeDocumentMoniker": "AM.applicationcore\\Services\\PassengerExtension.cs",
+              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Services\\PassengerExtension.cs",
+              "RelativeToolTip": "AM.applicationcore\\Services\\PassengerExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T10:29:21.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlightMethods.cs",
+              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Services\\FlightMethods.cs",
+              "RelativeDocumentMoniker": "AM.applicationcore\\Services\\FlightMethods.cs",
+              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Services\\FlightMethods.cs",
+              "RelativeToolTip": "AM.applicationcore\\Services\\FlightMethods.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAuwLQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T08:55:04.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFlightMethods.cs",
+              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Interfaces\\IFlightMethods.cs",
+              "RelativeDocumentMoniker": "AM.applicationcore\\Interfaces\\IFlightMethods.cs",
+              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Interfaces\\IFlightMethods.cs",
+              "RelativeToolTip": "AM.applicationcore\\Interfaces\\IFlightMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T08:54:38.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Traveller.cs",
               "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\Traveller.cs",
               "RelativeDocumentMoniker": "AM.applicationcore\\Domain\\Traveller.cs",
@@ -89,39 +208,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Passenger.cs",
-              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\Passenger.cs",
-              "RelativeDocumentMoniker": "AM.applicationcore\\Domain\\Passenger.cs",
-              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\Passenger.cs",
-              "RelativeToolTip": "AM.applicationcore\\Domain\\Passenger.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAywCgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T09:15:36.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Flight.cs",
-              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\Flight.cs",
-              "RelativeDocumentMoniker": "AM.applicationcore\\Domain\\Flight.cs",
-              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\Flight.cs",
-              "RelativeToolTip": "AM.applicationcore\\Domain\\Flight.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T09:11:57.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "Plane.cs",
               "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\Plane.cs",
               "RelativeDocumentMoniker": "AM.applicationcore\\Domain\\Plane.cs",
               "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\Plane.cs",
               "RelativeToolTip": "AM.applicationcore\\Domain\\Plane.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T08:59:35.837Z",
               "EditorCaption": ""
@@ -129,7 +222,59 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AM.console",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.console\\Program.cs",
+              "RelativeDocumentMoniker": "AM.console\\Program.cs",
+              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.console\\Program.cs",
+              "RelativeToolTip": "AM.console\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:50:21.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestData.cs",
+              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\TestData.cs",
+              "RelativeDocumentMoniker": "AM.applicationcore\\Domain\\TestData.cs",
+              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\TestData.cs",
+              "RelativeToolTip": "AM.applicationcore\\Domain\\TestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T09:11:55.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\Staff.cs",
+              "RelativeDocumentMoniker": "AM.applicationcore\\Domain\\Staff.cs",
+              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\Staff.cs",
+              "RelativeToolTip": "AM.applicationcore\\Domain\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T09:19:43.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlaneType.cs",
+              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\PlaneType.cs",
+              "RelativeDocumentMoniker": "AM.applicationcore\\Domain\\PlaneType.cs",
+              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Domain\\PlaneType.cs",
+              "RelativeToolTip": "AM.applicationcore\\Domain\\PlaneType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T09:26:28.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AM.console.csproj",
               "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.console\\AM.console.csproj",
               "RelativeDocumentMoniker": "AM.console\\AM.console.csproj",
               "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.console\\AM.console.csproj",
@@ -137,32 +282,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-01-26T08:57:13.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Class1.cs",
-              "RelativeDocumentMoniker": "AM.applicationcore\\Class1.cs",
-              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.applicationcore\\Class1.cs",
-              "RelativeToolTip": "AM.applicationcore\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T08:54:23.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.console\\Program.cs",
-              "RelativeDocumentMoniker": "AM.console\\Program.cs",
-              "ToolTip": "C:\\Users\\tabbe\\source\\repos\\AirportManagmentSim1\\AM.console\\Program.cs",
-              "RelativeToolTip": "AM.console\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T08:50:21.785Z",
               "EditorCaption": ""
             }
           ]

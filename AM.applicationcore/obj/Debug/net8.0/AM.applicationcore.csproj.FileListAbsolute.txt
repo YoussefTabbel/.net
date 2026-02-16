@@ -10,3 +10,4 @@ C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\obj\Debug\ne
 C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\obj\Debug\net8.0\refint\AM.applicationcore.dll
 C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\obj\Debug\net8.0\AM.applicationcore.pdb
 C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\obj\Debug\net8.0\ref\AM.applicationcore.dll
+C:\Users\tabbe\source\repos\AirportManagmentSim1\AM.applicationcore\obj\Debug\net8.0\AM.applicationcore.csproj.AssemblyReference.cache

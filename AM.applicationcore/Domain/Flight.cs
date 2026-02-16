@@ -16,5 +16,6 @@ namespace AM.applicationcore.Domain
         public int FlightId { get; set; }
         public Plane Plane { get; set; }
         public ICollection<Passenger> Passengers { get; set; }
+        public string AirlineLogo { get; set; }
     }
 }
