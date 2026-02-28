@@ -19,4 +19,8 @@
     <ProjectReference Include="..\AM.applicationcore\AM.applicationcore.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

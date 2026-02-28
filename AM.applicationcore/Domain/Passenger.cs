@@ -10,14 +10,20 @@ namespace AM.applicationcore.Domain
     public class Passenger
     {
         public int Id { get; set; }
-        [MinLength = 3, ErrorMessage = "First name must be at least 3 characters long.")]
+        [MinLength ( 3, ErrorMessage = "First name must be at least 3 characters long.")]
+        [MaxLength(25, ErrorMessage = "First name cannot exceed 25 characters.")]
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        [Display(Name = "Birth Date")]
+        [DataType(DataType.Date)]
         public DateTime BirthDate { get; set; }
+        [EmailAddress(ErrorMessage = "Invalid email address format.")]
         public string EmailAddress { get; set; }
         [Key]
         [StringLength(7, ErrorMessage = "Passport number must be exactly 8 characters.")]
         public string PassportNumber { get; set; }
+
+        [RegularExpression(@"^\d{8}$", ErrorMessage = "Telephone number must be exactly 8 digits.")]
         public int TelNumber { get; set; }
         public ICollection<Flight> Flights { get; set; }
         public override string ToString()
